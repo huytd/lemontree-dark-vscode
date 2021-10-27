@@ -1,0 +1,22 @@
+{
+    "name": "lemontree-dark",
+    "displayName": "LemonTree Dark",
+    "publisher": "huytd",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lemon Tree Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lemon Tree Dark-color-theme.json"
+            }
+        ]
+    }
+}
