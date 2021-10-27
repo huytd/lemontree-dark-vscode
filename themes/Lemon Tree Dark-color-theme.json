@@ -2007,7 +2007,7 @@
     "tab.activeBorder": "#00000000",
     "tab.activeBorderTop": "#00000000",
     "tab.inactiveBackground": "#1f2526",
-    "tab.inactiveForeground": "#ffffff80",
+    "tab.inactiveForeground": "#ceecea55",
     "scrollbarSlider.background": "#222d2e",
     "scrollbarSlider.hoverBackground": "#374647",
     "scrollbarSlider.activeBackground": "#334041",
