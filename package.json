@@ -22,5 +22,6 @@
                 "path": "./themes/Lemon Tree Dark-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
